@@ -12,7 +12,7 @@ Pratique seus conhecimentos em Java!
 7. Algoritmos
 8. Arquivos e IO
 9. Banco de Dados (JDBC)
-10. Projetos
+ 10. Projetos
 
 ## Como contribuir
 - Crie uma pasta com seu nome dentro da pasta do exercicio
