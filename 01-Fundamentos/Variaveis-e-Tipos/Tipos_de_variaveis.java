@@ -23,5 +23,7 @@ public class Tipos_de_variaveis {
         System.out.println("quanto e um pi = " + pi);
         System.out.println("a inicial de sua letra é" + inicial);
         System.out.println("esta chovendo!!!" + estaChovendo);
+        
+        
     }
 }
