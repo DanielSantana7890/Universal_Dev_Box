@@ -5,7 +5,7 @@ import java.util.Scanner;
  *
  * @author DanielSantana
  */
-public class Sistema_De_LOGIN {
+public class Prototipo001 {
 
     public static void main(String[] args) {
         
